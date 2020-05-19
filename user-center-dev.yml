@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: user-center
-    
+
 search:
   text: 测试配置中心 version=8
