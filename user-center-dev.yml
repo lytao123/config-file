@@ -3,4 +3,4 @@ spring:
     name: user-center
     
 search:
-  text: 测试配置中心 version=1
+  text: 测试配置中心 version=2
